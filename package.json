@@ -1,0 +1,11 @@
+{
+  "name": "puppeter-dzen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "puppeteer": "^21.5.2"
+  }
+}
